@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\bin\Debug\net6.0\DZ_8Zadacha_62.exe
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\bin\Debug\net6.0\DZ_8Zadacha_62.deps.json
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\bin\Debug\net6.0\DZ_8Zadacha_62.runtimeconfig.json
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\bin\Debug\net6.0\DZ_8Zadacha_62.dll
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\bin\Debug\net6.0\DZ_8Zadacha_62.pdb
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.dll
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\refint\DZ_8Zadacha_62.dll
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.pdb
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\DZ_8Zadacha_62.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\DZ\DZ_\DZ_8Zadacha_62\obj\Debug\net6.0\ref\DZ_8Zadacha_62.dll
